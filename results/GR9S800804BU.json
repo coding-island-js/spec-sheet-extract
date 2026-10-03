@@ -1,0 +1,65 @@
+{
+ "sku": "GR9S800804BU",
+ "sheet": "goodman-gr9s80.pdf",
+ "source": "https://pdf.lowes.com/productdocuments/0eb89ed6-ed35-4bcb-83a0-6137d49d58d2/68128871.pdf",
+ "input_tokens": 30195,
+ "output_tokens": 1328,
+ "fields": {
+  "heating_input_btuh": {
+   "value": "80,000 BTU/h",
+   "quote": "Input ¹ 40,000 60,000 60,000 80,000 80,000",
+   "page": 3,
+   "note": "Value is the 4th column (GR9S800804BU*) of the Input row.",
+   "quote_found_in_pdf": false
+  },
+  "heating_output_btuh": {
+   "value": "64,000 BTU/h",
+   "quote": "Natural Gas Output ¹ 32,000 48,000 48,000 64,000 64,000",
+   "page": 3,
+   "note": "Value is the 4th column (GR9S800804BU*) of the Natural Gas Output row.",
+   "quote_found_in_pdf": false
+  },
+  "afue": {
+   "value": "80%",
+   "quote": "AFUE ² 80 80 80 80 80",
+   "page": 3,
+   "note": "AFUE is 80 for all models in the table.",
+   "quote_found_in_pdf": true
+  },
+  "blower_motor": {
+   "value": "Multi-speed (9-speed) ECM, 3/4 HP",
+   "quote": "Horsepower 1/2 1/2 3/4 3/4 1",
+   "page": 3,
+   "note": "Horsepower 3/4 is the 4th column; motor type 'Multi-speed ECM blower motor' is stated on page 1.",
+   "quote_found_in_pdf": true
+  },
+  "airflow_capacity_tons": {
+   "value": "1.5 - 4 tons",
+   "quote": "Available AC @ 0.5” ESP 1 - 3 1 - 3 1.5 - 4 1.5 - 4 2.5 - 5",
+   "page": 3,
+   "note": "Value is the 4th column (GR9S800804BU*).",
+   "quote_found_in_pdf": true
+  },
+  "cabinet_width_in": {
+   "value": "17½”",
+   "quote": "GR9S800804BU* 17½” 16”",
+   "page": 4,
+   "note": "Dimension A is cabinet width.",
+   "quote_found_in_pdf": true
+  },
+  "voltage": {
+   "value": "115 VAC, 60 Hz, single-phase",
+   "quote": "All furnaces are manufactured for use on 115 VAC, 60 Hz, single-phase electrical supply.",
+   "page": 3,
+   "note": "",
+   "quote_found_in_pdf": true
+  },
+  "shipping_weight_lb": {
+   "value": "108 lbs",
+   "quote": "Ship Weight (lbs) 86 90 100 108 116",
+   "page": 3,
+   "note": "Value is the 4th column (GR9S800804BU*).",
+   "quote_found_in_pdf": false
+  }
+ }
+}

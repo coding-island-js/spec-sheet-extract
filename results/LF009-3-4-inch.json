@@ -1,0 +1,51 @@
+{
+ "sku": "LF009 3/4 inch",
+ "sheet": "watts-lf009.pdf",
+ "source": "https://www.watts.com/dfsmedia/0533dbba17714b1ab581ab07a4cbb521/494723-source/639040259440000000/es-lf009-2543.pdf",
+ "input_tokens": 14294,
+ "output_tokens": 706,
+ "fields": {
+  "max_working_pressure_psi": {
+   "value": "175 psi (12.1 bar)",
+   "quote": "Suitable for supply pressure up to 175 psi (12.1 bar)",
+   "page": 2,
+   "note": "Stated for the Series LF009 family, not specific to 3/4\".",
+   "quote_found_in_pdf": true
+  },
+  "temperature_range_f": {
+   "value": "33°F – 180°F (0.5° – 82°C)",
+   "quote": "Water temperature: 33°F – 180°F (0.5° – 82°C)",
+   "page": 2,
+   "note": "Stated for the Series LF009 family, not specific to 3/4\".",
+   "quote_found_in_pdf": true
+  },
+  "body_material": {
+   "value": "Lead Free* cast copper silicon alloy",
+   "quote": "Lead Free* cast copper silicon alloy body construction",
+   "page": 2,
+   "note": "Stated for the Series LF009 family.",
+   "quote_found_in_pdf": true
+  },
+  "end_connections": {
+   "value": "NPT (threaded); optional union or press (1/2\"–2\") connections",
+   "quote": "Standardly furnished with NPT body connections.",
+   "page": 2,
+   "note": "Press and union connections are listed as model options.",
+   "quote_found_in_pdf": true
+  },
+  "weight_lb": {
+   "value": "6 lb",
+   "quote": "3\n⁄4 103⁄4 273 61⁄4 159 31⁄2 89 23⁄4 70 63⁄4 171 33⁄16 81 23⁄4 70 6 3",
+   "page": 4,
+   "note": "Weight read from the 3/4\" row of the Dimensions – Weight table (6 lb / 3 kg).",
+   "quote_found_in_pdf": false
+  },
+  "approvals": {
+   "value": "ASSE No. 1013, AWWA C511, CSA B64.4, IAPMO File No. 1563, USC; ASSE, AWWA, CSA, IAPMO approved; approved by the Foundation for Cross-Connection Control and Hydraulic Research at USC; UL Classified, sizes 3/4\" – 2\" without shutoff valves (-LF), except LF009M3LF",
+   "quote": "ASSE, AWWA, CSA, IAPMO",
+   "page": 3,
+   "note": "Standards/approvals apply to the Series LF009 family; UL Classified applies only to 3/4\"–2\" without shutoff valves.",
+   "quote_found_in_pdf": true
+  }
+ }
+}

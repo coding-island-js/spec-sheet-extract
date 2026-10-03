@@ -1,0 +1,197 @@
+{
+ "GR9S800804BU": {
+  "heating_input_btuh": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "heating_output_btuh": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "afue": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "blower_motor": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "airflow_capacity_tons": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "cabinet_width_in": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "voltage": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  },
+  "shipping_weight_lb": {
+   "verdict": "right",
+   "checked_against": "page 3 image",
+   "note": ""
+  }
+ },
+ "GSXN403610": {
+  "nominal_capacity_tons": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "seer2": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": "Family-level value on the cover. Right, but a catalog may want the matched-system rating."
+  },
+  "refrigerant": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": "From the model-number key, applies to the whole series."
+  },
+  "voltage_phase_hz": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "minimum_circuit_ampacity": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "max_overcurrent_protection": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "sound_level_dba": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "dimensions_hwd_in": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  },
+  "shipping_weight_lb": {
+   "verdict": "right",
+   "checked_against": "pages 2, 3, 20 text, columns confirmed against the model header row",
+   "note": ""
+  }
+ },
+ "LF009 3/4 inch": {
+  "max_working_pressure_psi": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": ""
+  },
+  "temperature_range_f": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": ""
+  },
+  "body_material": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": ""
+  },
+  "end_connections": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": ""
+  },
+  "weight_lb": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": ""
+  },
+  "approvals": {
+   "verdict": "right",
+   "checked_against": "pages 2-4 (weight from page 4 image)",
+   "note": "Right but long. A catalog would split it into separate fields."
+  }
+ },
+ "RTGH-95DVLN": {
+  "max_input_btuh": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "min_input_btuh": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "uniform_energy_factor": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "max_flow_gpm": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "gas_type": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": "Right (N = natural gas), with an extra note about the propane model."
+  },
+  "heat_exchanger_warranty_years": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "weight_lb": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  }
+ },
+ "TH6220WF2006": {
+  "power": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "heating_setpoint_range_f": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "cooling_setpoint_range_f": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "max_heat_stages": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "max_cool_stages": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "wifi": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  },
+  "dimensions_in": {
+   "verdict": "right",
+   "checked_against": "page 1 image",
+   "note": ""
+  }
+ }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "sheet": "goodman-gsxn4.pdf",
+    "source": "https://www.acdirect.com/media/specs/Goodman/gsxn4-specifications.pdf",
+    "sku": "GSXN403610",
+    "category": "Split system air conditioner (condensing unit)",
+    "fields": {
+      "nominal_capacity_tons": "Nominal cooling capacity in tons",
+      "seer2": "SEER2 rating for this model",
+      "refrigerant": "Refrigerant type",
+      "voltage_phase_hz": "Electrical supply, e.g. 208-230/1/60",
+      "minimum_circuit_ampacity": "Minimum circuit ampacity (MCA), amps",
+      "max_overcurrent_protection": "Maximum overcurrent protection device (MOP / max fuse), amps",
+      "sound_level_dba": "Sound level in dBA",
+      "dimensions_hwd_in": "Unit height x width x depth in inches",
+      "shipping_weight_lb": "Shipping weight in pounds"
+    }
+  },
+  {
+    "sheet": "goodman-gr9s80.pdf",
+    "source": "https://pdf.lowes.com/productdocuments/0eb89ed6-ed35-4bcb-83a0-6137d49d58d2/68128871.pdf",
+    "sku": "GR9S800804BU",
+    "category": "Gas furnace",
+    "fields": {
+      "heating_input_btuh": "Heating input in BTU/h",
+      "heating_output_btuh": "Heating output capacity in BTU/h",
+      "afue": "AFUE efficiency percent",
+      "blower_motor": "Blower motor type and horsepower",
+      "airflow_capacity_tons": "Nominal cooling airflow capacity in tons",
+      "cabinet_width_in": "Cabinet width in inches",
+      "voltage": "Electrical supply",
+      "shipping_weight_lb": "Shipping weight in pounds"
+    }
+  },
+  {
+    "sheet": "rheem-rtgh.pdf",
+    "source": "https://files.rheem.com/blobazrheem/wp-content/uploads/sites/2/RTGH-Series-Rev1-condensing-Tankless-SS_1024-.pdf",
+    "sku": "RTGH-95DVLN",
+    "category": "Tankless gas water heater",
+    "fields": {
+      "max_input_btuh": "Maximum gas input in BTU/h",
+      "min_input_btuh": "Minimum gas input in BTU/h",
+      "uniform_energy_factor": "Uniform Energy Factor (UEF)",
+      "max_flow_gpm": "Maximum flow rate in gallons per minute",
+      "gas_type": "Gas type (natural gas, propane)",
+      "heat_exchanger_warranty_years": "Heat exchanger warranty in years (residential)",
+      "weight_lb": "Unit weight in pounds"
+    }
+  },
+  {
+    "sheet": "honeywell-t6pro.pdf",
+    "source": "https://resource.gemaire.com/is/content/Watscocom/Gemaire/honeywell_th6220wf2006u_en_ss.pdf",
+    "sku": "TH6220WF2006",
+    "category": "Programmable Wi-Fi thermostat",
+    "fields": {
+      "power": "Power requirement (voltage, terminals)",
+      "heating_setpoint_range_f": "Heating setpoint range in degrees F",
+      "cooling_setpoint_range_f": "Cooling setpoint range in degrees F",
+      "max_heat_stages": "Maximum heat stages supported",
+      "max_cool_stages": "Maximum cool stages supported",
+      "wifi": "Wi-Fi standard / frequency",
+      "dimensions_in": "Thermostat dimensions in inches"
+    }
+  },
+  {
+    "sheet": "watts-lf009.pdf",
+    "source": "https://www.watts.com/dfsmedia/0533dbba17714b1ab581ab07a4cbb521/494723-source/639040259440000000/es-lf009-2543.pdf",
+    "sku": "LF009 3/4 inch",
+    "category": "Reduced pressure zone backflow preventer",
+    "fields": {
+      "max_working_pressure_psi": "Maximum working pressure in psi",
+      "temperature_range_f": "Water temperature range in degrees F",
+      "body_material": "Body material",
+      "end_connections": "End connection type",
+      "weight_lb": "Weight in pounds for the 3/4 inch size",
+      "approvals": "Listed approvals and standards"
+    }
+  }
+]

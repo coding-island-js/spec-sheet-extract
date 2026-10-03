@@ -1,0 +1,58 @@
+{
+ "sku": "TH6220WF2006",
+ "sheet": "honeywell-t6pro.pdf",
+ "source": "https://resource.gemaire.com/is/content/Watscocom/Gemaire/honeywell_th6220wf2006u_en_ss.pdf",
+ "input_tokens": 6973,
+ "output_tokens": 642,
+ "fields": {
+  "power": {
+   "value": "24 volts to Rc and C required (no batteries)",
+   "quote": "Power method: 24 volts to Rc and C required (no batteries).",
+   "page": 1,
+   "note": "",
+   "quote_found_in_pdf": true
+  },
+  "heating_setpoint_range_f": {
+   "value": "40 °F to 90 °F",
+   "quote": "Heating:\n40 °F to 90 °F \n(4.5 °C to 32 °C)",
+   "page": 1,
+   "note": "Table row covers both TH6320WF2003 and TH6220WF2006.",
+   "quote_found_in_pdf": false
+  },
+  "cooling_setpoint_range_f": {
+   "value": "50 °F to 99 °F",
+   "quote": "Cooling:\n50 °F to 99 °F \n(10 °C to 37 °C)",
+   "page": 1,
+   "note": "Table row covers both TH6320WF2003 and TH6220WF2006.",
+   "quote_found_in_pdf": false
+  },
+  "max_heat_stages": {
+   "value": "Up to 2H (2H/1C heat pump or 2H/2C conventional)",
+   "quote": "Model TH6220WF2006: Up to 2H/1C Heat Pump systems or up to 2H/2C Conventional systems.",
+   "page": 1,
+   "note": "",
+   "quote_found_in_pdf": false
+  },
+  "max_cool_stages": {
+   "value": "1C with heat pump; 2C with conventional",
+   "quote": "Model TH6220WF2006: Up to 2H/1C Heat Pump systems or up to 2H/2C Conventional systems.",
+   "page": 1,
+   "note": "Cool stages differ by system type.",
+   "quote_found_in_pdf": false
+  },
+  "wifi": {
+   "value": "2.4GHz range, 802.11 b/g/n home wireless router",
+   "quote": "2.4GHz range, 802.11 b/g/n home wireless router",
+   "page": 1,
+   "note": "",
+   "quote_found_in_pdf": true
+  },
+  "dimensions_in": {
+   "value": "4-1/16\" H x 4-1/16\" W x 1-5/32\" D",
+   "quote": "4-1/16” H x 4-1/16” W x 1-5/32” D",
+   "page": 1,
+   "note": "Table row covers both TH6320WF2003 and TH6220WF2006.",
+   "quote_found_in_pdf": true
+  }
+ }
+}

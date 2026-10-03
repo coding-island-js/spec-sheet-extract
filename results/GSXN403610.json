@@ -1,0 +1,72 @@
+{
+ "sku": "GSXN403610",
+ "sheet": "goodman-gsxn4.pdf",
+ "source": "https://www.acdirect.com/media/specs/Goodman/gsxn4-specifications.pdf",
+ "input_tokens": 99629,
+ "output_tokens": 1083,
+ "fields": {
+  "nominal_capacity_tons": {
+   "value": "3.0 Tons (36,000 BTU/h nominal cooling)",
+   "quote": "36 - 3.0 Tons",
+   "page": 2,
+   "note": "Tonnage comes from the nomenclature capacity code 36; the spec table lists 36,000 BTU/h nominal cooling for GSXN403610A*.",
+   "quote_found_in_pdf": true
+  },
+  "seer2": {
+   "value": "14.3 SEER2",
+   "quote": "14.3 SEER2",
+   "page": 1,
+   "note": "14.3 SEER2 is stated for the GSXN4 product family on the cover; no model-specific SEER2 table is given.",
+   "quote_found_in_pdf": true
+  },
+  "refrigerant": {
+   "value": "R-410A",
+   "quote": "S Split System R-410A",
+   "page": 2,
+   "note": "Refrigerant indicated by nomenclature for the GSXN4 series, not a model-specific line item.",
+   "quote_found_in_pdf": true
+  },
+  "voltage_phase_hz": {
+   "value": "208/230-1 (60 Hz)",
+   "quote": "Voltage-Phase (60 Hz) 208/230-1",
+   "page": 3,
+   "note": "",
+   "quote_found_in_pdf": true
+  },
+  "minimum_circuit_ampacity": {
+   "value": "21.0 A",
+   "quote": "Minimum Circuit Ampacity 5 8.3 11.2 15.5 21.0 23.1 26.2 33.3",
+   "page": 3,
+   "note": "21.0 is the value in the GSXN403610A* column.",
+   "quote_found_in_pdf": true
+  },
+  "max_overcurrent_protection": {
+   "value": "35 A",
+   "quote": "Max. Overcurrent Protection 6 15 15 25 35 40 45 50",
+   "page": 3,
+   "note": "35 is the value in the GSXN403610A* column.",
+   "quote_found_in_pdf": true
+  },
+  "sound_level_dba": {
+   "value": "72.0 dBA",
+   "quote": "Decibels (dBA) 71.0 72.0 72.0 72.0 71.0 73.0 75.0",
+   "page": 3,
+   "note": "72.0 is the fourth value, corresponding to the GSXN403610A* column.",
+   "quote_found_in_pdf": true
+  },
+  "dimensions_hwd_in": {
+   "value": "35¾\" H x 35½\" W x 35½\" D",
+   "quote": "GSXN403610A* 35½ 35½ 35¾",
+   "page": 20,
+   "note": "Table order is W, D, H; dimensions are noted as reference only.",
+   "quote_found_in_pdf": true
+  },
+  "shipping_weight_lb": {
+   "value": "210 lbs",
+   "quote": "Ship Weight (lbs) 136 153 180 210 248 248 282",
+   "page": 3,
+   "note": "210 is the value in the GSXN403610A* column.",
+   "quote_found_in_pdf": true
+  }
+ }
+}

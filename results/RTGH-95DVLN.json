@@ -1,0 +1,58 @@
+{
+ "sku": "RTGH-95DVLN",
+ "sheet": "rheem-rtgh.pdf",
+ "source": "https://files.rheem.com/blobazrheem/wp-content/uploads/sites/2/RTGH-Series-Rev1-condensing-Tankless-SS_1024-.pdf",
+ "input_tokens": 8297,
+ "output_tokens": 587,
+ "fields": {
+  "max_input_btuh": {
+   "value": "199,900 BTU/h",
+   "quote": "199,900 BTU/h",
+   "page": 1,
+   "note": "",
+   "quote_found_in_pdf": true
+  },
+  "min_input_btuh": {
+   "value": "11,000 BTU/h",
+   "quote": "MIN 11,000 BTU/h 11,000 BTU/h 11,000 BTU/h 11,000 BTU/h",
+   "page": 1,
+   "note": "All models share the same 11,000 BTU/h minimum.",
+   "quote_found_in_pdf": true
+  },
+  "uniform_energy_factor": {
+   "value": "0.93",
+   "quote": "Uniform Energy Factor (UEF) 0.90 0.93",
+   "page": 1,
+   "note": "0.93 applies to the RTGH-84/90/95 column group.",
+   "quote_found_in_pdf": true
+  },
+  "max_flow_gpm": {
+   "value": "9.5 GPM (at 35°F rise)",
+   "quote": "MAX (35°F) 6.6 8.4 9.0 9.5",
+   "page": 1,
+   "note": "9.5 is the RTGH-95 value in the MAX (35°F) row.",
+   "quote_found_in_pdf": true
+  },
+  "gas_type": {
+   "value": "Natural Gas (LN); Liquid Propane available as RTGH-95DVLP",
+   "quote": "All models are available in Natural Gas or Propane (LP). For Propane replace the N with P for LP model.",
+   "page": 1,
+   "note": "The 'N' in RTGH-95DVLN designates Natural Gas.",
+   "quote_found_in_pdf": true
+  },
+  "heat_exchanger_warranty_years": {
+   "value": "15 years",
+   "quote": "15 year Heat Exchanger | 5-Year Parts | 1-Year Labor",
+   "page": 1,
+   "note": "Warranty listed for the whole RTGH series.",
+   "quote_found_in_pdf": true
+  },
+  "weight_lb": {
+   "value": "52.9 Lbs.",
+   "quote": "Weight (Lbs.) 52.9",
+   "page": 1,
+   "note": "Weight is listed once for all models in the series.",
+   "quote_found_in_pdf": true
+  }
+ }
+}
